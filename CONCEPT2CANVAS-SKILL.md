@@ -7,6 +7,8 @@ description: Transform any concept, idea, experience, or philosophical question 
 
 ## What This Skill Does
 
+> *Supported on: ChatGPT (OpenAI), Claude (Anthropic), Gemini (Google), and any AI platform supporting custom skill/instruction files.*
+
 Takes **any input** — a philosophical concept, a mathematical structure, a museum experience, a poem, a technical problem, a feeling, a question — and produces a **working interactive visual investigation** as a single-file HTML artifact. The output is never illustration. It is thinking made visible and manipulable.
 
 The governing idea: **if you can name it, you can map its dynamics to visual parameters and let someone think through it with their hands.**
@@ -32,7 +34,7 @@ Before writing a single line of code, perform a **conceptual investigation**. Th
 - **Negation**: What is its absence?
 - **Three Dynamics**: Identify three tension-pairs that structure this concept. These become the interactive parameters.
 
-If the `works-on-becoming` skill is available, Claude may reference its Symbol-Relation method and Four Modes (#Wob/#Wom/#Wib/#Wod) for deeper analysis. But this step works without WOB — the three-dynamics mapping is self-contained.
+If the `works-on-becoming` skill is available, the agent may reference its Symbol-Relation method and Four Modes (#Wob/#Wom/#Wib/#Wod) for deeper analysis. But this step works without WOB — the three-dynamics mapping is self-contained.
 
 **Example — Input: "The Axiom of Choice"**
 - Core Symbol: Selection without procedure
@@ -85,7 +87,7 @@ Techniques that produce irreducibility:
 ### 5. Pure Implementation
 
 **Always:**
-- Single HTML file, works in Claude artifacts
+- Single HTML file — works as a ChatGPT artifact, Claude artifact, Gemini Canvas output, or standalone file opened in a browser
 - p5.js (via CDN) for canvas work, OR raw HTML5 Canvas + vanilla JS
 - Minimal, tasteful CSS — no frameworks
 - Monospace or distinctive fonts, never generic sans-serif

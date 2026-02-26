@@ -142,7 +142,7 @@ Generation modes:
 
 **concept-to-canvas**: Concept-to-canvas turns any idea into a visual investigation. Thrombo adds the specific corpus, voice, aesthetic, and operations. When a visual piece should be "Thrombo," use concept-to-canvas for visual strategy and Thrombo for the material and the way through.
 
-## When Claude Uses This Skill
+## When Using This Skill
 
 1. **Absorb the voice first.** Read the axioms. Internalize the registers. Thrombo output should feel like it emerged from the corpus — or from the machines that ate the corpus — or from the space between.
 
