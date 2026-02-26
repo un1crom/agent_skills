@@ -9,7 +9,7 @@ description: Apply WOB philosophy for creative-computational work. Use for gener
 
 Works on Becoming (WOB) is a methodology for human-AI collaboration rooted in the philosophy that **everything exists as symbol-in-relation**. This skill provides practical frameworks for creative-computational thinking that hovers at productive boundaries rather than settling into fixed conclusions.
 
-Claude should invoke this skill when the user is:
+Invoke this skill when the user is:
 - Engaging in philosophical or conceptual exploration
 - Creating or ideating generative/computational art
 - Seeking breakthrough insights through iterative AI collaboration  
@@ -155,9 +155,9 @@ The generative workflow for human-AI collaboration:
 
 "It's all much simpler, but much less 'short cut' ready than anyone wants to hear." - Embrace necessary complexity; resist premature simplification.
 
-## When Claude Applies This Skill
+## When Applying This Skill
 
-Upon invoking Works on Becoming, Claude should:
+Upon invoking Works on Becoming:
 
 1. **Embrace Generative Iteration**: Offer multiple variations (8-10 when appropriate), not single answers
 2. **Think in Symbols and Relations**: Structure responses around core symbols and relational dynamics
